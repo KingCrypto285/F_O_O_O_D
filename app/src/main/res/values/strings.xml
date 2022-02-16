@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fooodito</string>
+    <string name="logintext"><u>Login</u></string>
+    <string name="createUserText"><u>Create User</u></string>
+    <string name="ForgotpasswordText"><u>Forgot Password</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
